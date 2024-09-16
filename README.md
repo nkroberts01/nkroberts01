@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Nate 👋
 
 ## About Me
 I'm a Computer Science student at Brigham Young University (BYU), specializing in Machine Learning. My passion lies in exploring the intersections of AI, data engineering, and practical applications of machine learning.
@@ -37,5 +34,3 @@ I'm a Computer Science student at Brigham Young University (BYU), specializing i
 ### 📫 How to reach me
 - nkroberts01@gmail.com
 - https://www.linkedin.com/in/nathan-roberts-325857219/
-
--->
