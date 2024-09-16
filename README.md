@@ -1,16 +1,41 @@
 ## Hi there 👋
 
 <!--
-**nkroberts01/nkroberts01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm [Your Name] 👋
 
-Here are some ideas to get you started:
+## About Me
+I'm a Computer Science student at Brigham Young University (BYU), specializing in Machine Learning. My passion lies in exploring the intersections of AI, data engineering, and practical applications of machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🎓 Education
+- **B.S. in Computer Science** (Machine Learning emphasis) - Brigham Young University
+
+### 💼 Current Work
+- **Research Assistant** at BYU
+  - Focus: Image segmentation using SAR satellite imagery
+  - Applying cutting-edge ML techniques to analyze and interpret satellite data
+
+### 🚀 Projects
+- **Recipe Recommendation System** (In Progress)
+  - Developing an AI-powered system to suggest recipes based on:
+    - User preferences
+    - Cooking tendencies
+    - Available ingredients
+  - Integrating ML algorithms with data engineering practices
+
+### 🔧 Skills
+- Machine Learning
+- Image Processing
+- Data Engineering
+- MLOps
+- Python
+
+### 🌱 I'm currently learning
+- MLOps practices
+- Cloud-based ML infrastructure
+- Reinforcement Learning
+
+### 📫 How to reach me
+- nkroberts01@gmail.com
+- https://www.linkedin.com/in/nathan-roberts-325857219/
+
 -->
