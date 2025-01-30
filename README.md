@@ -1,4 +1,4 @@
-# Hello, I'm Nate 👋
+# Hello!
 
 ## About Me
 I'm a Computer Science student at Brigham Young University (BYU), specializing in Machine Learning. My passion lies in exploring the intersections of AI, data engineering, and practical applications of machine learning.
